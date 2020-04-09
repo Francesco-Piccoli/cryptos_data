@@ -1,6 +1,6 @@
-**Crypto open data
+# Crypto open data
 
-**Authors: **Francesco Piccoli, Carlos Nunez
+### Authors: Francesco Piccoli, Carlos Nunez
 
 **Problem**
 
